@@ -1,0 +1,10 @@
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/bin/Debug/netstandard2.1/DALWDXDespachoMora.deps.json
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/bin/Debug/netstandard2.1/DALWDXDespachoMora.dll
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/bin/Debug/netstandard2.1/DALWDXDespachoMora.pdb
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/bin/Debug/netstandard2.1/DTOWDXDespachoMora.dll
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/bin/Debug/netstandard2.1/DTOWDXDespachoMora.pdb
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/obj/Debug/netstandard2.1/DALWDXDespachoMora.csprojAssemblyReference.cache
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/obj/Debug/netstandard2.1/DALWDXDespachoMora.AssemblyInfoInputs.cache
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/obj/Debug/netstandard2.1/DALWDXDespachoMora.csproj.CopyComplete
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/obj/Debug/netstandard2.1/DALWDXDespachoMora.dll
+/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/obj/Debug/netstandard2.1/DALWDXDespachoMora.pdb

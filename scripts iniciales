@@ -1,5 +1,7 @@
-CREATE USER usr_despacho WITH PASSWORD = 'Jerry200346602';
+CREATE DATABASE WDXDespachoMora;
+CREATE LOGIN usr_despacho WITH PASSWORD = 'Jerry200346602';
 ALTER LOGIN [usr_despacho] WITH DEFAULT_DATABASE = master;
 ALTER LOGIN usr_despacho ENABLE;
+
 CREATE USER usr_despachomora FOR LOGIN usr_despacho WITH DEFAULT_SCHEMA = [DBO]
 EXEC sp_addrolemember N'db_owner', N'usr_despachomora'

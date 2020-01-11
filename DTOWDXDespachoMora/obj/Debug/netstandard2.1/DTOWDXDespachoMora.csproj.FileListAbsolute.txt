@@ -1,0 +1,6 @@
+/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/bin/Debug/netstandard2.1/DTOWDXDespachoMora.deps.json
+/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/bin/Debug/netstandard2.1/DTOWDXDespachoMora.dll
+/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/bin/Debug/netstandard2.1/DTOWDXDespachoMora.pdb
+/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/obj/Debug/netstandard2.1/DTOWDXDespachoMora.AssemblyInfoInputs.cache
+/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/obj/Debug/netstandard2.1/DTOWDXDespachoMora.dll
+/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/obj/Debug/netstandard2.1/DTOWDXDespachoMora.pdb

@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/DALWDXDespachoMora.csproj": {}
+  },
+  "projects": {
+    "/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/DALWDXDespachoMora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/DALWDXDespachoMora.csproj",
+        "projectName": "DALWDXDespachoMora",
+        "projectPath": "/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/DALWDXDespachoMora.csproj",
+        "packagesPath": "/Users/jerrymac/.nuget/packages/",
+        "outputPath": "/Users/jerrymac/WDXWebApiDespachoJuridico/DALWDXDespachoMora/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jerrymac/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/DTOWDXDespachoMora.csproj": {
+                "projectPath": "/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/DTOWDXDespachoMora.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/DTOWDXDespachoMora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/DTOWDXDespachoMora.csproj",
+        "projectName": "DTOWDXDespachoMora",
+        "projectPath": "/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/DTOWDXDespachoMora.csproj",
+        "packagesPath": "/Users/jerrymac/.nuget/packages/",
+        "outputPath": "/Users/jerrymac/WDXWebApiDespachoJuridico/DTOWDXDespachoMora/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jerrymac/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

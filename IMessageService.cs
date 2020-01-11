@@ -2,6 +2,7 @@
 using System.IO;
 using System.Threading.Tasks;
 using SendGrid.Helpers.Mail;
+using BALWDXDespachoMora;
 
 namespace WDXWebApiDespachoJuridico
 {
@@ -14,8 +15,13 @@ namespace WDXWebApiDespachoJuridico
     {
         async Task<bool> IMessageService.Send(string email, string subject, string message, string messageHtml)
         {
-            //var emailMessage = $"A: {email}\nAsunto: {subject}\nMensaje: {message}\n\n";
-            var apiKey = "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";
+            const string LlaveSendGridApi = "ApiKeySendGrid";
+
+            var apiKey = String.Empty;
+            using(ConfiguracionBAL Metodo = new ConfiguracionBAL())
+            {
+                apiKey = Metodo.ConsultarValorConfiguracion(LlaveSendGridApi);
+            }
             var client = new SendGrid.SendGridClient(apiKey);
             var from = new EmailAddress("despachojuridicomora@gmail.com", "Despacho Jurídico Gómez Mora");
             var to = new EmailAddress(email);

@@ -94,7 +94,7 @@ namespace WDXWebApiDespachoJuridico.Controllers
             return Ok();
         }
 
-        [Authorize(Policy ="Permiso")]
+        //[Authorize(Policy ="Permiso")]
         [HttpDelete]
         [Route("borrar")]
         public async Task<IActionResult> DeleteUser(string UserName)
